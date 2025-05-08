@@ -962,7 +962,7 @@ https://cdn.cvattv.com.ar/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc_C/Local_C
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
-#EXTINF:-1 ch-number="453" tvg-id="132#Telediario Television" tvg-logo= group-title="Córdoba", TeleDiario TV
+#EXTINF:-1 ch-number="453" tvg-id="132#Telediario Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png/330px-Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png" group-title="Córdoba", TeleDiario TV
 http://cdn.sensa.com.ar/bpk-tv/TelediarioTelevision/default/index_fk.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 
