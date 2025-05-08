@@ -1487,15 +1487,15 @@ https://api.m3use.projectmoose.xyz/m3u/francopetrini/fr%20channels.m3u
 
 
 señales que provienen de otras fuentes
-#EXTINF:-1 content-type="Xtream Codes" , PELIS
+#EXTINF:-1 content-type="playlist" , PELIS
 https://593zona.live:8443/playlist/OTTPelis2025/OTTPelis2025/m3u?output=hls
 
 señales que provienen de otras fuentes
-#EXTINF:-1 content-type="XtreamCodes" , PELIS
+#EXTINF:-1 content-type="playlist" , PELIS
 https://opop.pro/5QeQgyyC1ree/?channels=false
 
 señales que provienen de otras fuentes
-#EXTINF:-1 content-type="Xtream Codes" , PELIS
+#EXTINF:-1 content-type="playlist", PELIS
 https://593zona.live:8443/playlist/OTTPelis2025/OTTPelis2025/m3u?output=hls
 
 #EXTVLCOPT:http-user-agent=
