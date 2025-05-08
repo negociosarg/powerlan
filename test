@@ -1491,12 +1491,14 @@ señales que provienen de otras fuentes
 https://593zona.live:8443/playlist/OTTPelis2025/OTTPelis2025/m3u?output=hls
 
 señales que provienen de otras fuentes
-#EXTINF:-1 content-type="playlist" , PELIS
-https://opop.pro/5QeQgyyC1ree/?channels=false
+#EXTINF:-1 content-type="playlist", PELIS
+http://stb.iptveditor.com/Ott2025/Ott2025
 
 señales que provienen de otras fuentes
 #EXTINF:-1 content-type="playlist", PELIS
-https://593zona.live:8443/playlist/OTTPelis2025/OTTPelis2025/m3u?output=hls
+URL: https://593zona.live:8443
+OTTPelis2025
+OTTPelis2025/m3u
 
 #EXTVLCOPT:http-user-agent=
 #EXTVLCOPT:http-referrer=
