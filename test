@@ -1490,8 +1490,13 @@ señales que provienen de otras fuentes
 #EXTINF:-1 content-type="Xtream Codes" , PELIS
 https://opop.pro/5QeQgyyC1ree/?channels=false
 
+señales que provienen de otras fuentes
+#EXTINF:-1 content-type="XtreamCodes" , PELIS
+https://xtream-ie.org/get.php?username=Ott2025&password=Ott2025&type=m3u_plus&output=mpegts
 
-
+señales que provienen de otras fuentes
+#EXTINF:-1 content-type="Xtream Codes" , PELIS
+https://xtream-ie.org/get.php?username=Ott2025&password=Ott2025&type=m3u_plus&output=mpegts
 
 #EXTVLCOPT:http-user-agent=
 #EXTVLCOPT:http-referrer=
