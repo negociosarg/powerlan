@@ -1479,7 +1479,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd?|referer=h
 
 
 señales que provienen de otras fuentes
-#EXTINF:-1 content-type="playlist" ,D Sports
+#EXTINF:-1 content-type="playlist", D Sports
 https://francope.elementfx.com/directv/canales/uru.txt
 
 #EXTINF:-1 content-type="playlist" señales youtube
@@ -1487,18 +1487,12 @@ https://api.m3use.projectmoose.xyz/m3u/francopetrini/fr%20channels.m3u
 
 
 señales que provienen de otras fuentes
-#EXTINF:-1 content-type="playlist" , PELIS
+#EXTINF:-1 content-type="playlist", PELIS
 https://593zona.live:8443/playlist/OTTPelis2025/OTTPelis2025/m3u?output=hls
 
-señales que provienen de otras fuentes
-#EXTINF:-1 content-type="playlist", PELIS
-http://stb.iptveditor.com/Ott2025/Ott2025
 
-señales que provienen de otras fuentes
-#EXTINF:-1 content-type="playlist", PELIS
-URL: https://593zona.live:8443
-OTTPelis2025
-OTTPelis2025/m3u
+
+
 
 #EXTVLCOPT:http-user-agent=
 #EXTVLCOPT:http-referrer=
@@ -1509,4 +1503,4 @@ OTTPelis2025/m3u
 
 
 
-https://xtream-ie.org/get.php?username=FH2L4moyygV6n&password=C3Q5LCfjw3XU&type=m3u_plus
+
